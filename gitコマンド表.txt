@@ -30,3 +30,6 @@ issueの確認　←タスクのようなもの
 ⑥修正したなら、git add --all
 ⑦git commit -m "ほげほげを作った" 
 ⑧git hub上でプルリクエストを申請する
+
+odashimakei
+kmejk1121
