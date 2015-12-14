@@ -1,3 +1,6 @@
+１．ブランチは指さし確認
+２．ブランチ名は、動詞名詞_名前 →makeTop_odashiとか
+
 <gitコマンド>
 git clone URL //フォルダをgithubからコピーしてくる。
 git pull //必ずmaster上で行う。レポジトリから持ってくる。
@@ -11,6 +14,8 @@ git branch //ブランチを確認する
 git branch ブランチ名 //ブランチを切る　*ブランチ・・・枝に分けるみたいな？ことを切るという。
 git checkout branch名 //ブランチに移動する。
 git checkout -b ブランチ名　//ブランチを切って、ブランチに移動する。
+
+git branch -d ブランチ名　//ブランチを消す
 
 git add --all //修正したものを全部アドする。
 git commit -m "メッセージ" //コミットする。
