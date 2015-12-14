@@ -1,35 +1,32 @@
-<gitƒRƒ}ƒ“ƒh>
-git clone URL //ƒtƒHƒ‹ƒ_‚ðgithub‚©‚çƒRƒs[‚µ‚Ä‚­‚éB
-git pull //•K‚¸masterã‚Ås‚¤BƒŒƒ|ƒWƒgƒŠ‚©‚çŽ‚Á‚Ä‚­‚éB
+<gitã‚³ãƒžãƒ³ãƒ‰>
+git clone URL //ãƒ•ã‚©ãƒ«ãƒ€ã‚’githubã‹ã‚‰ã‚³ãƒ”ãƒ¼ã—ã¦ãã‚‹ã€‚
+git pull //å¿…ãšmasterä¸Šã§è¡Œã†ã€‚ãƒ¬ãƒã‚¸ãƒˆãƒªã‹ã‚‰æŒã£ã¦ãã‚‹ã€‚
 
-git push //ƒŒƒ|ƒWƒgƒŠ‚É•Û‘¶‚·‚éB *ƒŒƒ|ƒWƒgƒŠEEEƒIƒ“ƒ‰ƒCƒ“‚Å•Û‘¶‚µ‚Ä‚¢‚éƒtƒHƒ‹ƒ_
+git push //ãƒ¬ãƒã‚¸ãƒˆãƒªã«ä¿å­˜ã™ã‚‹ã€‚ *ãƒ¬ãƒã‚¸ãƒˆãƒªãƒ»ãƒ»ãƒ»ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ã§ä¿å­˜ã—ã¦ã„ã‚‹ãƒ•ã‚©ãƒ«ãƒ€
 
 
-git status //¡‚Ìó‘Ô‚ðŠm”F‚·‚é©‚æ‚­Žg‚¤
+git status //ä»Šã®çŠ¶æ…‹ã‚’ç¢ºèªã™ã‚‹â†ã‚ˆãä½¿ã†
 
-git branch //ƒuƒ‰ƒ“ƒ`‚ðŠm”F‚·‚é
-git branch ƒuƒ‰ƒ“ƒ`–¼ //ƒuƒ‰ƒ“ƒ`‚ðØ‚é@*ƒuƒ‰ƒ“ƒ`EEEŽ}‚É•ª‚¯‚é‚Ý‚½‚¢‚ÈH‚±‚Æ‚ðØ‚é‚Æ‚¢‚¤B
-git checkout branch–¼ //ƒuƒ‰ƒ“ƒ`‚ÉˆÚ“®‚·‚éB
-git checkout -b ƒuƒ‰ƒ“ƒ`–¼@//ƒuƒ‰ƒ“ƒ`‚ðØ‚Á‚ÄAƒuƒ‰ƒ“ƒ`‚ÉˆÚ“®‚·‚éB
+git branch //ãƒ–ãƒ©ãƒ³ãƒã‚’ç¢ºèªã™ã‚‹
+git branch ãƒ–ãƒ©ãƒ³ãƒå //ãƒ–ãƒ©ãƒ³ãƒã‚’åˆ‡ã‚‹ã€€*ãƒ–ãƒ©ãƒ³ãƒãƒ»ãƒ»ãƒ»æžã«åˆ†ã‘ã‚‹ã¿ãŸã„ãªï¼Ÿã“ã¨ã‚’åˆ‡ã‚‹ã¨ã„ã†ã€‚
+git checkout branchå //ãƒ–ãƒ©ãƒ³ãƒã«ç§»å‹•ã™ã‚‹ã€‚
+git checkout -b ãƒ–ãƒ©ãƒ³ãƒåã€€//ãƒ–ãƒ©ãƒ³ãƒã‚’åˆ‡ã£ã¦ã€ãƒ–ãƒ©ãƒ³ãƒã«ç§»å‹•ã™ã‚‹ã€‚
 
-git add --all //C³‚µ‚½‚à‚Ì‚ð‘S•”ƒAƒh‚·‚éB
-git commit -m "ƒƒbƒZ[ƒW" //ƒRƒ~ƒbƒg‚·‚éB
+git add --all //ä¿®æ­£ã—ãŸã‚‚ã®ã‚’å…¨éƒ¨ã‚¢ãƒ‰ã™ã‚‹ã€‚
+git commit -m "ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸" //ã‚³ãƒŸãƒƒãƒˆã™ã‚‹ã€‚
 
-git merge ƒuƒ‰ƒ“ƒ`–¼ //Ž©•ª‚ª¡‚¢‚éƒuƒ‰ƒ“ƒ`‚Éƒ}[ƒW‚³‚¹‚éB
+git merge ãƒ–ãƒ©ãƒ³ãƒå //è‡ªåˆ†ãŒä»Šã„ã‚‹ãƒ–ãƒ©ãƒ³ãƒã«ãƒžãƒ¼ã‚¸ã•ã›ã‚‹ã€‚
 
-<git hubã‚Ì‘€ì>
-issue‚ÌŠm”F@©ƒ^ƒXƒN‚Ì‚æ‚¤‚È‚à‚Ì
-ƒvƒ‹ƒŠƒNƒGƒXƒg ©ƒ}[ƒW‚·‚é‚Æ‚«‚Égit hub‚Ås‚¤‚±‚Æ‚Å‹£‡‚ª‹N‚«‚Ä‚¢‚é‚©”»’f‚µ‚Ä‚­‚ê‚éB‚±‚ê‚ðŽg‚¤B
+<git hubä¸Šã®æ“ä½œ>
+issueã®ç¢ºèªã€€â†ã‚¿ã‚¹ã‚¯ã®ã‚ˆã†ãªã‚‚ã®
+ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆ â†ãƒžãƒ¼ã‚¸ã™ã‚‹ã¨ãã«git hubã§è¡Œã†ã“ã¨ã§ç«¶åˆãŒèµ·ãã¦ã„ã‚‹ã‹åˆ¤æ–­ã—ã¦ãã‚Œã‚‹ã€‚ã“ã‚Œã‚’ä½¿ã†ã€‚
 
-<ŠJ”­‚Ì—¬‚ê>
-‡@masterã‚Å git pull
-‡A‚Ü‚¸Ž©•ª‚ÌŒ»Ý‚Ìƒuƒ‰ƒ“ƒ`‚ðŠm”F
-‡Bƒuƒ‰ƒ“ƒ`‚ðØ‚é‚©AŽ©•ª‚Ìì‹Æ’†‚Ìƒuƒ‰ƒ“ƒ`‚ÉˆÚ“®‚·‚é
-‡Cì‹Æ‚·‚é
-‡Dgit status‚ÅŠm”F
-‡EC³‚µ‚½‚È‚çAgit add --all
-‡Fgit commit -m "‚Ù‚°‚Ù‚°‚ðì‚Á‚½" 
-‡Ggit hubã‚Åƒvƒ‹ƒŠƒNƒGƒXƒg‚ð\¿‚·‚é
-
-odashimakei
-kmejk1121
+<é–‹ç™ºã®æµã‚Œ>
+â‘ masterä¸Šã§ git pull
+â‘¡ã¾ãšè‡ªåˆ†ã®ç¾åœ¨ã®ãƒ–ãƒ©ãƒ³ãƒã‚’ç¢ºèª
+â‘¢ãƒ–ãƒ©ãƒ³ãƒã‚’åˆ‡ã‚‹ã‹ã€è‡ªåˆ†ã®ä½œæ¥­ä¸­ã®ãƒ–ãƒ©ãƒ³ãƒã«ç§»å‹•ã™ã‚‹
+â‘£ä½œæ¥­ã™ã‚‹
+â‘¤git statusã§ç¢ºèª
+â‘¥ä¿®æ­£ã—ãŸãªã‚‰ã€git add --all
+â‘¦git commit -m "ã»ã’ã»ã’ã‚’ä½œã£ãŸ" 
+â‘§git hubä¸Šã§ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’ç”³è«‹ã™ã‚‹
